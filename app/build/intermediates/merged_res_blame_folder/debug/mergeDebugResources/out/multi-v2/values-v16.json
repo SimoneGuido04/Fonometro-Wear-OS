@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.simon.fonometrowearos.app-mergeDebugResources-54:/values-v16/values-v16.xml",
+            "outputFile": "com.simon.fonometrowearos.app-mergeDebugResources-55:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\simon\\.gradle\\caches\\9.0-milestone-1\\transforms\\b23052ee6e24fa2991b0b7af7800d705\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\simon\\.gradle\\caches\\transforms-4\\d68400a91416e00b990a377d8f722f76\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

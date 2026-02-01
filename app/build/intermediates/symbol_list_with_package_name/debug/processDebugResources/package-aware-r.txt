@@ -352,6 +352,8 @@ string status_bar_notification_info_overflow
 string switch_role
 string tab
 string template_percent
+string tooltip_description
+string tooltip_label
 style Base_Theme_SplashScreen
 style Base_Theme_SplashScreen_DayNight
 style Base_Theme_SplashScreen_Light

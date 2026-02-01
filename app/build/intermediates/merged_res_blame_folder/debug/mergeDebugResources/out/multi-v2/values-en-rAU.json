@@ -1,27 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "com.simon.fonometrowearos.app-mergeDebugResources-54:/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "com.simon.fonometrowearos.app-mergeDebugResources-55:/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\simon\\.gradle\\caches\\9.0-milestone-1\\transforms\\8cf8ebbabc50529c0920c18b9f3aad9a\\transformed\\jetified-ui-release\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\simon\\.gradle\\caches\\transforms-4\\7244e91cbc1438667c38e39234acc6e9\\transformed\\jetified-foundation-release\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,197,279,373,472,559,641,730,819,903,968,1032,1110,1192,1265,1342,1408",
-                        "endColumns": "91,81,93,98,86,81,88,88,83,64,63,77,81,72,76,65,120",
-                        "endOffsets": "192,274,368,467,554,636,725,814,898,963,1027,1105,1187,1260,1337,1403,1524"
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,141",
+                        "endColumns": "85,84",
+                        "endOffsets": "136,221"
                     },
                     "to": {
-                        "startLines": "9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25,26",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "824,916,998,1092,1191,1278,1360,1449,1538,1622,1687,1751,1829,1911,2085,2162,2228",
-                        "endColumns": "91,81,93,98,86,81,88,88,83,64,63,77,81,72,76,65,120",
-                        "endOffsets": "911,993,1087,1186,1273,1355,1444,1533,1617,1682,1746,1824,1906,1979,2157,2223,2344"
+                        "startLines": "27,28",
+                        "startColumns": "4,4",
+                        "startOffsets": "2349,2435",
+                        "endColumns": "85,84",
+                        "endOffsets": "2430,2515"
                     }
                 },
                 {
-                    "source": "C:\\Users\\simon\\.gradle\\caches\\9.0-milestone-1\\transforms\\b23052ee6e24fa2991b0b7af7800d705\\transformed\\core-1.12.0\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\simon\\.gradle\\caches\\transforms-4\\d68400a91416e00b990a377d8f722f76\\transformed\\core-1.12.0\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -35,6 +35,23 @@
                         "startOffsets": "105,201,303,402,501,605,708,1984",
                         "endColumns": "95,101,98,98,103,102,115,100",
                         "endOffsets": "196,298,397,496,600,703,819,2080"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\simon\\.gradle\\caches\\transforms-4\\9b8408d97b65f99edd2948f4b3b822f7\\transformed\\jetified-ui-release\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,197,279,373,472,559,641,730,819,903,968,1032,1110,1192,1265,1342,1408",
+                        "endColumns": "91,81,93,98,86,81,88,88,83,64,63,77,81,72,76,65,120",
+                        "endOffsets": "192,274,368,467,554,636,725,814,898,963,1027,1105,1187,1260,1337,1403,1524"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25,26",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "824,916,998,1092,1191,1278,1360,1449,1538,1622,1687,1751,1829,1911,2085,2162,2228",
+                        "endColumns": "91,81,93,98,86,81,88,88,83,64,63,77,81,72,76,65,120",
+                        "endOffsets": "911,993,1087,1186,1273,1355,1444,1533,1617,1682,1746,1824,1906,1979,2157,2223,2344"
                     }
                 }
             ]

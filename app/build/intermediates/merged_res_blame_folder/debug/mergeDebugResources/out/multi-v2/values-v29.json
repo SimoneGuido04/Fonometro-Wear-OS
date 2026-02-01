@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.simon.fonometrowearos.app-mergeDebugResources-54:/values-v29/values-v29.xml",
+            "outputFile": "com.simon.fonometrowearos.app-mergeDebugResources-55:/values-v29/values-v29.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\simon\\.gradle\\caches\\9.0-milestone-1\\transforms\\81b415dfa1a0a7b868079c068e981d30\\transformed\\jetified-core-splashscreen-1.0.1\\res\\values-v29\\values-v29.xml",
+                    "source": "C:\\Users\\simon\\.gradle\\caches\\transforms-4\\04af792094eb35d103facd3cf0da7f68\\transformed\\jetified-core-splashscreen-1.0.1\\res\\values-v29\\values-v29.xml",
                     "from": {
                         "startLines": "2,7",
                         "startColumns": "4,4",

@@ -351,6 +351,8 @@ int string status_bar_notification_info_overflow 0x7f090029
 int string switch_role 0x7f09002a
 int string tab 0x7f09002b
 int string template_percent 0x7f09002c
+int string tooltip_description 0x7f09002d
+int string tooltip_label 0x7f09002e
 int style Base_Theme_SplashScreen 0x7f0a0000
 int style Base_Theme_SplashScreen_DayNight 0x7f0a0001
 int style Base_Theme_SplashScreen_Light 0x7f0a0002

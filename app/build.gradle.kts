@@ -18,6 +18,8 @@ android {
         }
     }
 
+    buildToolsVersion = "34.0.0"
+
     buildTypes {
         release {
             isMinifyEnabled = false
@@ -35,7 +37,7 @@ android {
         compose = true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion = "1.5.1"
+        kotlinCompilerExtensionVersion = "1.5.8"
     }
     packaging {
         resources {
@@ -55,7 +57,8 @@ dependencies {
     implementation(platform("androidx.compose:compose-bom:2023.08.00"))
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.ui:ui-tooling-preview")
-    implementation("androidx.wear.compose:compose-material:1.2.1")
+    implementation("androidx.wear.compose:compose-material3:1.0.0-alpha15") // Material 3
+    implementation("androidx.wear.compose:compose-material:1.2.1") // Keep for legacy support if needed
     implementation("androidx.wear.compose:compose-foundation:1.2.1")
     implementation("androidx.activity:activity-compose:1.8.2")
     implementation("androidx.core:core-splashscreen:1.0.1")
